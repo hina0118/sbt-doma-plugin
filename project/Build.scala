@@ -3,7 +3,7 @@ import Keys._
 
 object PluginBuild extends Build {
 
-  lazy val buildVersion  =  "1.0-SNAPSHOT"
+  lazy val buildVersion  =  "1.0"
 
   lazy val moduleName    = "sbt-doma-plugin"
 
